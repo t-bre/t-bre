@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Tim.</h2>
 
 ## About me
 - 🎓 Electronic Engineering student at [University of Southampton](https://www.ecs.soton.ac.uk/).
