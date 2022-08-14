@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 &nbsp; Electronic Engineering student at [University of Southampton](https://www.ecs.soton.ac.uk/).
-- 🏎 &nbsp; Currently working on [sufst/vcu](https://github.com/sufst/vcu).
+- 🏎 &nbsp; Head of Embedded Systems [@SUFST](https://github.com/sufst). Currently working on [sufst/vcu](https://github.com/sufst/vcu).
 - 🎹 &nbsp; `MIDIAnalyser` app coming soon!
 
 ## Languages and Tools
