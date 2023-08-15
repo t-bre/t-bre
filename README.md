@@ -1,9 +1,8 @@
 <h2 align="center">👋 Hello! I'm Tim.</h2>
 
 ## About Me
-- 🎓 &nbsp; Final year MEng Electronic Engineering student at [University of Southampton](https://www.ecs.soton.ac.uk/).
-- 🏎 &nbsp; Head of Embedded Systems [@SUFST](https://github.com/sufst). Currently working on [sufst/vcu](https://github.com/sufst/vcu) and [sufst/pcb](https://github.com/sufst/pcb).
-- 💻 &nbsp; Currently looking for a graduate embedded systems / software development role in the Southampton area, feel free to reach out if you're hiring!
+- 🎓 &nbsp; Graduate MEng Electronic Engineering student from [University of Southampton](https://www.ecs.soton.ac.uk/).
+- 💻 &nbsp; Embedded Hardware Engineer at [Opses](https://www.opses.co.uk).
 
 ## Languages and Tools
 <div>
